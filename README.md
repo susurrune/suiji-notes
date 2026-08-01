@@ -1,5 +1,8 @@
 # 随记（notes_app）
 
+[![Build](https://github.com/susurrune/suiji-notes/actions/workflows/build-apk.yml/badge.svg)](https://github.com/susurrune/suiji-notes/actions/workflows/build-apk.yml)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+
 轻量快速记录 + 结构化管理的个人笔记应用。
 融合 **vivo 原子笔记**（分类管理 / 富文本 / 多媒介）与 **Google Keep**（极简速记 / 标签 / 颜色）的优点。
 
